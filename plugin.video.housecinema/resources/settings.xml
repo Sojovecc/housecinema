@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings version="1">
+    <section id="plugin.video.housecinema">
+        <category label="Webshare Účet">
+            <setting id="username" type="string" label="Prihlasovacie meno (alebo email)">
+                <level>0</level>
+                <default></default>
+            </setting>
+            <setting id="password" type="string" label="Heslo" option="hidden">
+                <level>0</level>
+                <default></default>
+            </setting>
+        </category>
+    </section>
+</settings>
